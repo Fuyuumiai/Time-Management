@@ -1,0 +1,117 @@
+.cu-tag {
+	font-size: 24upx;
+	vertical-align: middle;
+	position: relative;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	padding: 0upx 16upx;
+	height: 48upx;
+	font-family: Helvetica Neue, Helvetica, sans-serif;
+	white-space: nowrap;
+	border-radius: 6rpx;
+}
+
+.cu-tag:not([class*="bg"]):not([class*="line"]) {
+	background-color: #f1f1f1;
+}
+
+.cu-tag[class*="line-"]::after {
+	content: " ";
+	width: 200%;
+	height: 200%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 1upx solid currentColor;
+	transform: scale(0.5);
+	transform-origin: 0 0;
+	box-sizing: border-box;
+	border-radius: inherit;
+	z-index: 1;
+	pointer-events: none;
+}
+
+.cu-tag.radius[class*="line"]::after {
+	border-radius: 12upx;
+}
+
+.cu-tag.round[class*="line"]::after {
+	border-radius: 1000upx;
+}
+
+.cu-tag[class*="line-"]::after {
+	border-radius: 0;
+}
+
+.cu-tag+.cu-tag {
+	margin-left: 10upx;
+}
+
+.cu-tag.sm {
+	font-size: 20upx;
+	padding: 6upx 12upx;
+	height: 36upx; 
+}
+
+/* 颜色 */
+.bg-red {
+	color: #e54d42;
+	background-color: #fadbd9;
+}
+
+.bg-orange {
+	color: #f37b1d;
+	background-color: #fde6d2;
+}
+
+.bg-yellow {
+	color: #fbbd08;
+	background-color: #FEF2CE;
+}
+
+.bg-olive {
+	color: #8dc63f;
+	background-color: #e8f4d9;
+}
+
+.bg-green {
+	color: #39b54a;
+	background-color: #D7F0DB;
+}
+
+.bg-cyan{
+	color: #1cbbb4;
+	background-color: #d2f1f0;
+}
+
+.bg-blue {
+	color: #0081ff;
+	background-color: #cce6ff;
+}
+
+.bg-purple {
+	color: #6739b6;
+	background-color: #e1d7f0;
+}
+
+.bg-mauve {
+	color: #9c26b0;
+	background-color: #ebd4ef;
+}
+
+.bg-pink {
+	color: #e03997;
+	background-color: #f9d7ea;
+}
+
+.bg-brown {
+	color: #a5673f;
+	background-color: #ede1d9;
+}
+
+.bg-grey {
+	color: #8799a3;
+	background-color: #e7ebed;
+}
