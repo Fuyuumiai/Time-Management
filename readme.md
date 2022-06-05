@@ -12,7 +12,7 @@
 
 本系统主要由任务管理模块、目标管理模块、每日总结模块、数据统计分析模块和用户注册登录模块五个功能模块组成。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6628\wps1.jpg)
+![img](http://www.yuiai.cn:4215/public/info/wps1.jpg)
 
 ### 项目截图（部分）
 
@@ -20,33 +20,33 @@
 
 #### 登录/注册页面
 
-![654424844516](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654425304738.png)
+![654424844516](http://www.yuiai.cn:4215/public/info/1654425304738.png)
 
 #### 任务管理
 
-![1654425694164](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654425694164.png)
+![1654425694164](http://www.yuiai.cn:4215/public/info/654425694164.png)
 
 ![1654425707299](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654425707299.png)
 
 #### 目标管理
 
-![1654425810662](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654425810662.png)
+![1654425810662](http://www.yuiai.cn:4215/public/info/1654425810662.png)
 
 #### 数据统计
 
-![1654425943490](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654425943490.png)
+![1654425943490](http://www.yuiai.cn:4215/public/info/1654425943490.png)
 
 #### 主页
 
-![1654426191576](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654426191576.png)
+![1654426191576](http://www.yuiai.cn:4215/public/info/1654426191576.png)
 
 #### 每日总结
 
-![1654426241778](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654426241778.png)
+![1654426241778](http://www.yuiai.cn:4215/public/info/1654426241778.png)
 
 #### 个人中心
 
-![1654426311036](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1654426311036.png)
+![1654426311036](http://www.yuiai.cn:4215/public/info/1654426311036.png)
 
 ### 访问
 
